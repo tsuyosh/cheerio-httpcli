@@ -1,2 +1,6 @@
-node_modules
-coverage
+*~
+node_modules/
+bower_components/
+.gitignore
+coverage/
+coverage.html
